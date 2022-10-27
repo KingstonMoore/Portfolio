@@ -1,0 +1,28 @@
+h1 {
+    color: brown;
+}
+
+/* * {
+    border: solid;
+}*/
+
+.info{
+    background-color:salmon;
+    display: flex;
+    justify-content: space-between;
+}
+
+.games{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.social{
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2, p{
+    text-align: center;
+}
